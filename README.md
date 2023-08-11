@@ -1,4 +1,4 @@
-# GeneradordeContraseñas
+# Generador de Contraseñas
 
 ## Requisitos
 
